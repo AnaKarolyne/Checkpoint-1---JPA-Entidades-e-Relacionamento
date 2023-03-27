@@ -1,4 +1,2 @@
-# checkpoint_um_business
------------------------
-
-## Repositório destinado a realização do primeiro checkpoint de business.
+# Checkpoint-1---JPA-Entidades-e-Relacionamento
+Checkpoint 1 - JPA Entidades e Relacionamentos
